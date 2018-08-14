@@ -1,0 +1,11 @@
+C:\_px\myapp.px\bin\Debug\netcoreapp2.1\myapp.px.deps.json
+C:\_px\myapp.px\bin\Debug\netcoreapp2.1\myapp.px.runtimeconfig.json
+C:\_px\myapp.px\bin\Debug\netcoreapp2.1\myapp.px.runtimeconfig.dev.json
+C:\_px\myapp.px\bin\Debug\netcoreapp2.1\myapp.px.dll
+C:\_px\myapp.px\bin\Debug\netcoreapp2.1\myapp.px.pdb
+C:\_px\myapp.px\obj\Debug\netcoreapp2.1\myapp.px.csprojAssemblyReference.cache
+C:\_px\myapp.px\obj\Debug\netcoreapp2.1\myapp.px.csproj.CoreCompileInputs.cache
+C:\_px\myapp.px\obj\Debug\netcoreapp2.1\myapp.px.AssemblyInfoInputs.cache
+C:\_px\myapp.px\obj\Debug\netcoreapp2.1\myapp.px.AssemblyInfo.cs
+C:\_px\myapp.px\obj\Debug\netcoreapp2.1\myapp.px.dll
+C:\_px\myapp.px\obj\Debug\netcoreapp2.1\myapp.px.pdb
