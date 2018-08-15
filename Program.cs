@@ -19,6 +19,9 @@ namespace myapp.px
             foreach(var name in names){
                 Console.WriteLine($"Hey there {name}.");
             }
+            Console.WriteLine();
+            Console.WriteLine($"My name is {names[0]}");
+            Console.WriteLine($"Say hello to {names[1]} and {names[2]}");
         }
     }
 }
